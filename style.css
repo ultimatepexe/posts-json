@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+div {
+    border: solid 1px gray;
+    padding: 5px;
+    margin: 5px;
+}
+div > p {
+    display: inline-block;
+    margin: 10px;
+    margin-left: 0;
+}
